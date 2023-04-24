@@ -1,1 +1,1 @@
-"/home/pi/gdrive_sync_folder_script/Images","1TB3f9-BFmtoPGguvXWd_gBBKZHKO9mQi"
+"path of folder to be synchronized","Google Drive Folder Parent ID where the files are to be uploaded"
